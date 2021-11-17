@@ -18,7 +18,7 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange">
 <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
-> Use CTRL + F to search for a key word
+> Use CTRL + F or ⌘ + F to search for a key word
 
 ---
 
