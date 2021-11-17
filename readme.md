@@ -1,4 +1,16 @@
-# WebDev CheatSheet
+<div align="center">
+  <div>
+    <img width="500" src="media/undraw_programming.png" alt="Web Dev Resources">
+  </div>
+  </br>
+  <h2>Web Development CheatSheet</h2>
+  <p>
+    <span style="font-weight: bold"><a href="https://github.com/ibaiway">Ibai Alberdi</a></span>
+
+  </p>
+</div>
+
+---
 
 Hi! The idea behind this CheatSheet is that you can use it to find theorical, practical or useful tools of the common Web development tech stacks.
 
@@ -7,6 +19,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 > Use CTRL + F to search for a key word
+
+---
 
 ## HTML <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>
 
