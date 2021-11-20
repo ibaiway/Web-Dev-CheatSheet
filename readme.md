@@ -62,6 +62,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 - [Grid garden](https://cssgridgarden.com/) <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange"> A game for learning CSS Grid.
 
+- [CSS Grid Generator](https://grid.layoutit.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Design and build CSS Grid layouts easily.
+
 ### Media Queries
 
 - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
@@ -73,6 +75,12 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [CSSGradient.io](https://cssgradient.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 - [UIGradients](https://uigradients.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+### Shadows
+
+- [Shadow Generator](https://shadows.brumm.af/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Easy to use shadow generator.
+
+- [Scroll Shadow Generator](https://css-scroll-shadows.vercel.app/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Change shadows with the scroll.
 
 ## JavaScript <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/>
 
@@ -112,11 +120,37 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 - [MariaDB Tutorial](https://www.mariadbtutorial.com/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
 
+## APIs <img src="https://img.icons8.com/external-ddara-flat-ddara/24/000000/external-api-fintech-ddara-flat-ddara.png"/>
+
+- [Postman](https://www.postman.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Easy way to test APIs.
+
+- [Insomnia](https://insomnia.rest/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Easy way to test APIs.
+
+- [HTTP Status Codes](https://httpstatuses.com/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen"> List of HTTP Status Codes with definitions and explanations.
+
+- [PublicAPIs](https://github.com/public-apis/public-apis) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> A collective list of free APIs for use in software and web development.
+
+- [Any-API](https://any-api.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Documentation and Test Consoles for Over 1400 Public APIs.
+
+- [OpenWeather API](https://openweathermap.org/api) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Free Weather API. Current, hourly, daily weather forecasts.
+
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Free fake API for testing and prototyping.
+
+- [JSON Server](https://github.com/typicode/json-server) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Get a full fake REST API with zero coding in less than 30 seconds. This is the custom version of JSON Placeholder API.
+
+## Package Managers <img src="https://img.icons8.com/color/24/000000/npm.png"/>
+
+- [NPM Trends](https://www.npmtrends.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Compare NPM package download stats over time and check the popular ones.
+
+- [BundlePhobia](https://bundlephobia.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Find the cost of adding a npm package to your bundle.
+
 ## SEO <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/24/000000/external-seo-web-development-company-inipagistudio-mixed-inipagistudio.png"/>
 
 - [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
 
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
+
+- [Metatags.io](https://metatags.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Preview how your webpage will look on Google, Facebook, Twitter...
 
 ## Images <img src="https://img.icons8.com/fluency/24/000000/image.png"/>
 
@@ -127,6 +161,10 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Patternico](https://patternico.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Background pattern creator.
 
 - [Placeholder](https://placeholder.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Create placeholder images.
+
+- [Dynamic Dummy Image](https://dummyimage.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Dynamic place holder image generator.
+
+- [Place it](https://placeit.net/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Mockup templates with iphones, Desktop, Macbooks.
 
 - [RemovePhotoData](http://removephotodata.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Remove metada from any photo.
 
