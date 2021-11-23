@@ -27,6 +27,18 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [HTML](#HTML-)
 - [CSS](#CSS-)
 - [JavaScript](#Javascript-)
+- [React JS](#React-JS-)
+- [Data](#Data-)
+- [Docker](#Docker-)
+- [GIT](#GIT-)
+- [Databases](#Databases-)
+- [APIs](#APIs-)
+- [Package Managers](#Package-Managers-)
+- [SEO](#SEO-)
+- [Images](#Images-)
+- [Colors](#Colors-)
+- [Icons](#Icons-)
+- [Fonts](#Fonts-)
 
 ---
 
