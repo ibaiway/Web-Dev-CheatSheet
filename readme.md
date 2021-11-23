@@ -24,8 +24,9 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 # Contents
 
-- [HTML](#-HTML)
-- [JavaScript](#-Javascript)
+- [HTML](#HTML-)
+- [CSS](#CSS-)
+- [JavaScript](#Javascript-)
 
 ---
 
