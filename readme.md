@@ -22,6 +22,13 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 ---
 
+# Contents
+
+- [HTML](#-HTML)
+- [JavaScript](#-Javascript)
+
+---
+
 ## HTML <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>
 
 - [HTML Reference](https://htmlreference.io/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
@@ -84,15 +91,25 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 ## JavaScript <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/>
 
-- [JavaScript Utilities 1Loc](https://1loc.dev/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+- [JavaScript Utilities 1Loc](https://1loc.dev/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> JavaScript Utilities in a single line of code.
 
-- [Manage HTML DOM](https://htmldom.dev/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+- [Manage HTML DOM](https://htmldom.dev/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Manage HTML DOM with vanilla JavaScript.
 
 - [RossetaCode](http://rosettacode.org/wiki/Category:JavaScript) <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange">
+
+- [Perflink | JS Benchmarks](https://perf.link/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> JavaScript performance benchmarks you can share via URL.
+
+- [javascript.info](https://javascript.info/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen"> The Modern JavaScript Tutorial.
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen"> This is a book about JavaScript, programming, and the wonders of the digital.
+
+- [You might not need jQuery](https://youmightnotneedjquery.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> jQuery alternatives.
 
 ## React JS <img src="https://img.icons8.com/office/24/000000/react.png"/>
 
 - [React Hooks](https://usehooks.com/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
+
+- [IntersectionObserver](https://intersectionobserver.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Practical React examples of IntersectionObserver API
 
 ## Data <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/24/000000/external-storage-business-innovation-wanicon-lineal-color-wanicon.png"/>
 
@@ -104,9 +121,13 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 - [Mockaroo](https://www.mockaroo.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
+- [loremimpsum.io](https://loremipsum.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Lorem impsum placeholder text generator.
+
 ## Docker <img src="https://img.icons8.com/fluency/24/000000/docker.png"/>
 
 - [FreeCodeCamp Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
+
+- [Play with Docker](https://labs.play-with-docker.com/) <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange"> A simple, interactive and fun playground to learn Docker.
 
 ## GIT <img src="https://img.icons8.com/color/24/000000/git.png"/>
 
@@ -189,6 +210,36 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [HappyHues](https://www.happyhues.co/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Curated colors in context.
 
 ## Icons <img src="https://img.icons8.com/office/24/000000/medium-icons.png"/>
+
+- [FontAwesome](https://fontawesome.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Get vector icons and social logos.
+
+- [Icons8](https://icons8.com/icons) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Multiple formats and styles of icons.
+
+- [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Icons based on the core Material Design principles and metrics.
+
+- [Simple Icons](https://simpleicons.org/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> 2110 Free SVG icons for popular brands.
+
+- [GetEmoji](https://getemoji.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Copy and Paste Emoji.
+
+- [useAnimations](https://useanimations.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Animated icons.
+
+- [Favicon Generator](https://realfavicongenerator.net/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+- [Favicon Maker](https://formito.com/tools/favicon) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+## Fonts <img src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/24/000000/external-font-graphic-photo3ideastudio-lineal-color-photo3ideastudio.png"/>
+
+- [1001fonts](https://www.1001fonts.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> More than 17000 fonts for free
+
+- [Google Fonts](https://fonts.google.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> More than 1300 family fonts provided by Google.
+
+- [fontpair](https://www.fontpair.co/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Browse through hundreds of Google Font pairings.
+
+- [Fontjoy](https://fontjoy.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Font pairing with machine learning.
+
+- [Font PlayGround](https://play.typedetail.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Play and practice with different fonts.
+
+- [Type anything](https://app.typeanything.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Typography tool to combine and test fonts, paragraphs and margins.
 
 # Credits
 
