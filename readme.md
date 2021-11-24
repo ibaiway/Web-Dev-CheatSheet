@@ -39,6 +39,7 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Colors](#Colors-)
 - [Icons](#Icons-)
 - [Fonts](#Fonts-)
+- [Hosting](#Hosting-)
 
 ---
 
@@ -253,6 +254,16 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Font PlayGround](https://play.typedetail.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Play and practice with different fonts.
 
 - [Type anything](https://app.typeanything.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Typography tool to combine and test fonts, paragraphs and margins.
+
+## Hosting <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/24/000000/external-hosting-seo-flatart-icons-flat-flatarticons.png"/>
+
+- [Netlify](https://www.netlify.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+- [Heroku](https://www.heroku.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+- [Vercel](https://vercel.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+- [Render](https://render.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 # Credits
 
