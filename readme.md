@@ -40,6 +40,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Icons](#Icons-)
 - [Fonts](#Fonts-)
 - [Hosting](#Hosting-)
+- [Licenses and copyright](#Licenses-and-copyright)
+- [Documentation](#Documentation)
 
 ---
 
@@ -125,6 +127,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 - [IntersectionObserver](https://intersectionobserver.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Practical React examples of IntersectionObserver API
 
+- [React Tutorial](https://react-tutorial.app/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen"> <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange"> Learn in an interactive environment. Understand how React works not just how to build with React.
+
 ## Data <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/24/000000/external-storage-business-innovation-wanicon-lineal-color-wanicon.png"/>
 
 ### Datasets
@@ -136,6 +140,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Mockaroo](https://www.mockaroo.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 - [loremimpsum.io](https://loremipsum.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Lorem impsum placeholder text generator.
+
+- [Faker.js](https://github.com/marak/Faker.js/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Generate massive amounts of realistic fake data in Node.js and the browser.
 
 ## Docker <img src="https://img.icons8.com/fluency/24/000000/docker.png"/>
 
@@ -264,6 +270,14 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [Vercel](https://vercel.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 - [Render](https://render.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+## Licenses and copyright <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-open-source-software-in-which-source-code-is-released-under-a-license-logo-color-tal-revivo.png"/>
+
+- [choosealicense](https://choosealicense.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Choose an open source license
+
+## Documentation <img src="https://img.icons8.com/color/24/000000/open-book--v1.png"/>
+
+- [readme.so](https://readme.so/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Add and customize all the sections you need for your project's readme.
 
 # Credits
 
