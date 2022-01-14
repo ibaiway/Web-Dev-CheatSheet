@@ -61,6 +61,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 
 - [CSS Animations Animista](https://animista.net/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Play with a collection of ready to use CSS animations.
 
+- [trianglify.io](https://trianglify.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue"> Tool to generate low-poly backgrounds, textures, and vectors.
+
 ### Flexbox
 
 - [CSSTricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen"> A Complete Guide to Flexbox.
@@ -98,6 +100,8 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [CSSGradient.io](https://cssgradient.io/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 - [UIGradients](https://uigradients.com/) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
+
+- [GradPad](http://www.ourownthing.co.uk/gradpad.html) <img src="https://img.shields.io/badge/%F0%9F%9B%A0-Tool-blue">
 
 ### Shadows
 
@@ -156,6 +160,10 @@ Hi! The idea behind this CheatSheet is that you can use it to find theorical, pr
 - [GitSheet](https://gitsheet.wtf/) <img src="https://img.shields.io/badge/%F0%9F%93%9A-Theory-brightgreen">
 
 ## Databases <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/24/000000/external-database-data-science-kiranshastry-lineal-color-kiranshastry.png"/>
+
+### SQL <img src="https://img.icons8.com/external-flat-juicy-fish/24/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+
+- [SQL Island](http://sql-island.informatik.uni-kl.de/?lang=en) <img src="https://img.shields.io/badge/%F0%9F%92%BB-Practice-orange"> A game for beginners to practice SQL
 
 ### MariaDB <img src="https://img.icons8.com/color/24/000000/maria-db.png"/>
 
